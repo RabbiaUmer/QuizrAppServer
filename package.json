@@ -1,0 +1,25 @@
+{
+  "name": "quizrappserver",
+  "version": "1.0.0",
+  "description": "\"A backend for the QuizrApp\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RabbiaUmer/QuizrAppServer.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "game"
+  ],
+  "author": "Rabbia Umer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RabbiaUmer/QuizrAppServer/issues"
+  },
+  "homepage": "https://github.com/RabbiaUmer/QuizrAppServer#readme"
+}
